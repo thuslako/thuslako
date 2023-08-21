@@ -3,6 +3,7 @@
         <div class="container" xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container{
+                    font-family: sans-serif;
                     display: flex;
                     flex-direction: column;
                     align-items: center;
@@ -10,6 +11,13 @@
                     background-color: #becede;
                     padding-top: 0.5rem;
                     padding-bottom; 1rem;
+                    color: #2f3542;
+                }
+                h1{
+                    font-size: 2rem;
+                    font-weight: 900;
+                    margin: 0;
+                    color: #ebff72;
                 }
                 img {
                     clip-path:circle(30%);
@@ -19,7 +27,7 @@
             </style>
             <h1>Welcome humans and bots 👋🏿</h1>
                 <strong>You will find a wild assortment of projects below. Enjoy!</strong>
-                <img align="right" src='https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif'/>
+                <img align="right" src='https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif'></img>
         </div>
     </foreignObject>
 </svg>
