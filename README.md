@@ -11,7 +11,7 @@
             }
 
         </style>
-        <h1>Welcome humans and bots</h1>
+        <h1>Welcome humans and bots 👋🏿</h1>
         <div class="main">
             <strong>You will find a wild assortment of projects below. Enjoy!</strong>
             <br/>
