@@ -28,8 +28,8 @@
             <h1>Welcome humans and bots 👋🏿</h1>
             <strong>You will find a wild assortment of projects below. Enjoy!</strong>
             <picture>
-                <source type="image/webp" srcset="giphy.webp"/>
-                <img src="giphy.webp" alt="carl chiefs kiss" width="300" height="200" />
+                <source type="image/webp" srcset="giphy.webp"></source>
+                <img src="giphy.webp" alt="carl chiefs kiss" width="300" height="200"></img>
             </picture>
         </div>
     </foreignObject>
