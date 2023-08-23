@@ -29,7 +29,7 @@
             <strong>You will find a wild assortment of projects below. Enjoy!</strong>
             <picture>
                 <source type="image/webp" srcset="giphy.webp">
-                <img src="giphy.gif" alt="carl chiefs kiss" width="300" height="200" />
+                <img src="giphy.webp" alt="carl chiefs kiss" width="300" height="200" />
             </picture>
             <img src="giphy.webp" alt="carl chiefs kiss" width="300" height="200" />
         </div>
