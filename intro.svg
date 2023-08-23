@@ -8,6 +8,7 @@
                     gif.setAttribute("alt", "carl chiefs kiss");
                     gif.setAttribute("width", "300");
                     gif.setAttribute("height", "200");
+                    gif.setAttribute("crossorigin", "anonymous");
                     document.getElementsByClassName('container')[0].appendChild(gif);
                 }
             </script>
@@ -37,7 +38,6 @@
             </style>
             <h1>Welcome humans and bots 👋🏿</h1>
             <strong>You will find a wild assortment of projects below. Enjoy!</strong>
-            <img src="https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif" alt="carl chiefs kiss" width="300" height="200"/>
         </div>
     </foreignObject>
 </svg>
