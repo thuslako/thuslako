@@ -27,7 +27,7 @@
             </style>
             <h1>Welcome humans and bots 👋🏿</h1>
             <strong>You will find a wild assortment of projects below. Enjoy!</strong>
-            <picture>
+            <picture xmlns="http://www.w3.org/1999/xhtml">
                 <source type="image/webp" srcset="giphy.webp"></source>
                 <img src="giphy.webp" alt="carl chiefs kiss" width="300" height="200"></img>
             </picture>
