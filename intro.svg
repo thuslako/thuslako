@@ -1,10 +1,11 @@
-<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px">
   <foreignObject width="100%" height="100%">
         <div class="container" xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container{
                     font-family: sans-serif;
                     display: flex;
+                    height; 100%;
                     flex-direction: column;
                     align-items: center;
                     justify-content: space-evenly;
@@ -26,8 +27,9 @@
                 }
             </style>
             <h1>Welcome humans and bots 👋🏿</h1>
-                <strong>You will find a wild assortment of projects below. Enjoy!</strong>
-                <img align="right" src='https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif'></img>
+            <strong>You will find a wild assortment of projects below. Enjoy!</strong>
+            <image xlink:href="https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif" alt="carl chiefs kiss"/>
+            <img src="https://media.giphy.com/media/3o6ozkQbdfOIyCC6wU/giphy.gif" alt="carl chiefs kiss"/>
         </div>
     </foreignObject>
 </svg>
